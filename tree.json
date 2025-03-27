@@ -1,0 +1,69 @@
+{
+  "families": [
+    {
+      "childRefs": [
+        {
+          "ref": "I3*553addfb-572b-402c-a2ba-e95b7050b1fe"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I2*37cfc2a4-3eec-4792-958e-6005e8165245"
+        }
+      ],
+      "id": "F2*42e246a2-686f-4e11-a06d-8e787da2185c",
+      "wifeRefs": []
+    }
+  ],
+  "head": {
+    "charset": {
+      "value": "UTF-8"
+    },
+    "date": {
+      "time": "19:46:52",
+      "value": "27 MAR 2025"
+    },
+    "file": "subtree",
+    "gedc": {
+      "form": "LINEAGE-LINKED",
+      "vers": "5.5.1"
+    },
+    "lang": "Japanese",
+    "sour": {
+      "name": "Tarombo",
+      "value": "TAROMBO",
+      "vers": "0.5.6 (a4f812b)"
+    }
+  },
+  "people": [
+    {
+      "fams": [
+        {
+          "ref": "F2*42e246a2-686f-4e11-a06d-8e787da2185c"
+        }
+      ],
+      "id": "I2*37cfc2a4-3eec-4792-958e-6005e8165245",
+      "names": [
+        {
+          "value": "B //"
+        }
+      ],
+      "eventsFacts": []
+    },
+    {
+      "famc": [
+        {
+          "ref": "F2*42e246a2-686f-4e11-a06d-8e787da2185c"
+        }
+      ],
+      "fams": [],
+      "id": "I3*553addfb-572b-402c-a2ba-e95b7050b1fe",
+      "names": [
+        {
+          "value": "C //"
+        }
+      ],
+      "eventsFacts": []
+    }
+  ]
+}
